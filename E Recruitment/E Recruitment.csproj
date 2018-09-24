@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B2E1AA3B-B293-4F19-93ED-88D95281C358}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>E_Recruitment</RootNamespace>
+    <AssemblyName>E Recruitment</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AddBGCAdministrator_HR.aspx" />
+    <Content Include="AddEmployeeDetails_HR.aspx" />
+    <Content Include="AddSelectedCandidates_HR.aspx" />
+    <Content Include="ApproveAdministrator_UnitHead.aspx" />
+    <Content Include="App_Themes\Theme1\StyleSheet1.css" />
+    <Content Include="Capture.PNG" />
+    <Content Include="ChangePwd.aspx" />
+    <Content Include="ContactUs_BGCAdmin.aspx" />
+    <Content Include="ContactUs_HR.aspx" />
+    <Content Include="ContactUs_UnitHead.aspx" />
+    <Content Include="CreateBGCSchedule_HR.aspx" />
+    <Content Include="EditDetails_Administrator.aspx" />
+    <Content Include="EditEmployeeDetails.aspx" />
+    <Content Include="Emloyee.aspx" />
+    <Content Include="Header photo.png" />
+    <Content Include="Homepage_BGCAdmin.aspx" />
+    <Content Include="Homepage_HR.aspx" />
+    <Content Include="Homepage_UnitHead.aspx" />
+    <Content Include="Images\images.jpg" />
+    <Content Include="image\0.jpg" />
+    <Content Include="image\1.jpg" />
+    <Content Include="image\11.jpg" />
+    <Content Include="image\2.jpg" />
+    <Content Include="image\4.jpg" />
+    <Content Include="image\8.jpg" />
+    <Content Include="image\back.jpg" />
+    <Content Include="image\images.jpg" />
+    <Content Include="image\imgg.jpg" />
+    <Content Include="image\logo.jpg" />
+    <Content Include="Login1.aspx" />
+    <Content Include="ViewAdministrators_HR.aspx" />
+    <Content Include="ViewBGCStatus_Administrator.aspx" />
+    <Content Include="ViewBGCStatus_HR.aspx" />
+    <Content Include="ViewNewEmployees_HR.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddBGCAdministrator_HR.aspx.cs">
+      <DependentUpon>AddBGCAdministrator_HR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddBGCAdministrator_HR.aspx.designer.cs">
+      <DependentUpon>AddBGCAdministrator_HR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddEmployeeDetails_HR.aspx.cs">
+      <DependentUpon>AddEmployeeDetails_HR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddEmployeeDetails_HR.aspx.designer.cs">
+      <DependentUpon>AddEmployeeDetails_HR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddSelectedCandidates_HR.aspx.cs">
+      <DependentUpon>AddSelectedCandidates_HR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddSelectedCandidates_HR.aspx.designer.cs">
+      <DependentUpon>AddSelectedCandidates_HR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ApproveAdministrator_UnitHead.aspx.cs">
+      <DependentUpon>ApproveAdministrator_UnitHead.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ApproveAdministrator_UnitHead.aspx.designer.cs">
+      <DependentUpon>ApproveAdministrator_UnitHead.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePwd.aspx.cs">
+      <DependentUpon>ChangePwd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChangePwd.aspx.designer.cs">
+      <DependentUpon>ChangePwd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs_BGCAdmin.aspx.cs">
+      <DependentUpon>ContactUs_BGCAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs_BGCAdmin.aspx.designer.cs">
+      <DependentUpon>ContactUs_BGCAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs_HR.aspx.cs">
+      <DependentUpon>ContactUs_HR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs_HR.aspx.designer.cs">
+      <DependentUpon>ContactUs_HR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs_UnitHead.aspx.cs">
+      <DependentUpon>ContactUs_UnitHead.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs_UnitHead.aspx.designer.cs">
+      <DependentUpon>ContactUs_UnitHead.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreateBGCSchedule_HR.aspx.cs">
+      <DependentUpon>CreateBGCSchedule_HR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CreateBGCSchedule_HR.aspx.designer.cs">
+      <DependentUpon>CreateBGCSchedule_HR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditDetails_Administrator.aspx.cs">
+      <DependentUpon>EditDetails_Administrator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditDetails_Administrator.aspx.designer.cs">
+      <DependentUpon>EditDetails_Administrator.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditEmployeeDetails.aspx.cs">
+      <DependentUpon>EditEmployeeDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditEmployeeDetails.aspx.designer.cs">
+      <DependentUpon>EditEmployeeDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Emloyee.aspx.cs">
+      <DependentUpon>Emloyee.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Emloyee.aspx.designer.cs">
+      <DependentUpon>Emloyee.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Homepage_BGCAdmin.aspx.cs">
+      <DependentUpon>Homepage_BGCAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Homepage_BGCAdmin.aspx.designer.cs">
+      <DependentUpon>Homepage_BGCAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Homepage_HR.aspx.cs">
+      <DependentUpon>Homepage_HR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Homepage_HR.aspx.designer.cs">
+      <DependentUpon>Homepage_HR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Homepage_UnitHead.aspx.cs">
+      <DependentUpon>Homepage_UnitHead.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Homepage_UnitHead.aspx.designer.cs">
+      <DependentUpon>Homepage_UnitHead.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login1.aspx.cs">
+      <DependentUpon>Login1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login1.aspx.designer.cs">
+      <DependentUpon>Login1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Master1.Master.cs">
+      <DependentUpon>Master1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master1.Master.designer.cs">
+      <DependentUpon>Master1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Master2_UnitHead.Master.cs">
+      <DependentUpon>Master2_UnitHead.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master2_UnitHead.Master.designer.cs">
+      <DependentUpon>Master2_UnitHead.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Master3_Administrator.Master.cs">
+      <DependentUpon>Master3_Administrator.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master3_Administrator.Master.designer.cs">
+      <DependentUpon>Master3_Administrator.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewAdministrators_HR.aspx.cs">
+      <DependentUpon>ViewAdministrators_HR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewAdministrators_HR.aspx.designer.cs">
+      <DependentUpon>ViewAdministrators_HR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewBGCStatus_Administrator.aspx.cs">
+      <DependentUpon>ViewBGCStatus_Administrator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewBGCStatus_Administrator.aspx.designer.cs">
+      <DependentUpon>ViewBGCStatus_Administrator.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewBGCStatus_HR.aspx.cs">
+      <DependentUpon>ViewBGCStatus_HR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewBGCStatus_HR.aspx.designer.cs">
+      <DependentUpon>ViewBGCStatus_HR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewNewEmployees_HR.aspx.cs">
+      <DependentUpon>ViewNewEmployees_HR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewNewEmployees_HR.aspx.designer.cs">
+      <DependentUpon>ViewNewEmployees_HR.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Master1.Master" />
+    <Content Include="Master2_UnitHead.Master" />
+    <Content Include="Master3_Administrator.Master" />
+    <Content Include="App_Themes\Theme1\Skin1.skin" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FactoryBLL\FactoryBLL.csproj">
+      <Project>{0f646375-14d8-4a00-988a-5cf833596ea5}</Project>
+      <Name>FactoryBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FactoryBO\FactoryBO.csproj">
+      <Project>{7f4ea9b0-9c33-47ab-983c-bd1538cd2e53}</Project>
+      <Name>FactoryBO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Types\Types.csproj">
+      <Project>{0886d6e1-c5a5-4478-80e8-c4ad559a2017}</Project>
+      <Name>Types</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:57687/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

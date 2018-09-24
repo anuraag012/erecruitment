@@ -1,0 +1,121 @@
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\FactoryBLL.dll
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\FactoryBLL.pdb
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\BLL.dll
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\Types.dll
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\FactoryBO.dll
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\FactoryDAL.dll
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\BO.dll
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\DAL.dll
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\BLL.pdb
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\Types.pdb
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\FactoryBO.pdb
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\FactoryDAL.pdb
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\BO.pdb
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\bin\Debug\DAL.pdb
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\obj\Debug\FactoryBLL.csprojResolveAssemblyReference.cache
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\obj\Debug\FactoryBLL.dll
+G:\PD\TMS115-TEAMF\new example\FactoryBLL\obj\Debug\FactoryBLL.pdb
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBLL.dll
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBLL.pdb
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BLL.dll
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\Types.dll
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryDAL.dll
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\DAL.dll
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBO.dll
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BO.dll
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BLL.pdb
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\Types.pdb
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryDAL.pdb
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\DAL.pdb
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBO.pdb
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BO.pdb
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.csprojResolveAssemblyReference.cache
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.dll
+C:\Users\837465\Desktop\837465\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.pdb
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBLL.dll
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBLL.pdb
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BLL.dll
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\Types.dll
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryDAL.dll
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\DAL.dll
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBO.dll
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BO.dll
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BLL.pdb
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\Types.pdb
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryDAL.pdb
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\DAL.pdb
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBO.pdb
+G:\main\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BO.pdb
+G:\main\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.csprojResolveAssemblyReference.cache
+G:\main\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.dll
+G:\main\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.pdb
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBLL.dll
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBLL.pdb
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BLL.dll
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\Types.dll
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryDAL.dll
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\DAL.dll
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBO.dll
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BO.dll
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BLL.pdb
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\Types.pdb
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryDAL.pdb
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\DAL.pdb
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBO.pdb
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BO.pdb
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.csprojResolveAssemblyReference.cache
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.dll
+G:\PD\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.pdb
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBLL.dll
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBLL.pdb
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BLL.dll
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\Types.dll
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryDAL.dll
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBO.dll
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\DAL.dll
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BO.dll
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BLL.pdb
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\Types.pdb
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryDAL.pdb
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBO.pdb
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\DAL.pdb
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BO.pdb
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.csprojResolveAssemblyReference.cache
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.dll
+C:\Users\864134\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.pdb
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBLL.dll
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBLL.pdb
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BLL.dll
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\Types.dll
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryDAL.dll
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBO.dll
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\DAL.dll
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BO.dll
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BLL.pdb
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\Types.pdb
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryDAL.pdb
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\FactoryBO.pdb
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\DAL.pdb
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\bin\Debug\BO.pdb
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.csprojResolveAssemblyReference.cache
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.dll
+G:\PD phase\TMS115-TEAMF\Project\FactoryBLL\obj\Debug\FactoryBLL.pdb
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\FactoryBLL.dll
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\FactoryBLL.pdb
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\BLL.dll
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\Types.dll
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\FactoryDAL.dll
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\FactoryBO.dll
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\DAL.dll
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\BO.dll
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\BLL.pdb
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\Types.pdb
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\FactoryDAL.pdb
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\FactoryBO.pdb
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\DAL.pdb
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\bin\Debug\BO.pdb
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\obj\Debug\FactoryBLL.csprojAssemblyReference.cache
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\obj\Debug\FactoryBLL.csproj.CoreCompileInputs.cache
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\obj\Debug\FactoryBLL.csproj.CopyComplete
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\obj\Debug\FactoryBLL.dll
+C:\Users\vivek\Downloads\Project\Project\FactoryBLL\obj\Debug\FactoryBLL.pdb
